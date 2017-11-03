@@ -1,0 +1,285 @@
+
+hunterman_backward.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hunterman_legs0081
+  rotate: false
+  xy: 1, 729
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0100
+  rotate: false
+  xy: 1, 729
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0120
+  rotate: false
+  xy: 1, 729
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0082
+  rotate: false
+  xy: 1, 625
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0083
+  rotate: false
+  xy: 138, 729
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0084
+  rotate: false
+  xy: 1, 521
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0085
+  rotate: false
+  xy: 138, 625
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0086
+  rotate: false
+  xy: 275, 729
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0087
+  rotate: false
+  xy: 1, 417
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0088
+  rotate: false
+  xy: 138, 521
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0089
+  rotate: false
+  xy: 275, 625
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0090
+  rotate: false
+  xy: 412, 729
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0091
+  rotate: false
+  xy: 1, 313
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0092
+  rotate: false
+  xy: 138, 417
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0093
+  rotate: false
+  xy: 275, 521
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0094
+  rotate: false
+  xy: 412, 625
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0095
+  rotate: false
+  xy: 549, 729
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0096
+  rotate: false
+  xy: 1, 209
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0097
+  rotate: false
+  xy: 138, 313
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0098
+  rotate: false
+  xy: 275, 417
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0099
+  rotate: false
+  xy: 412, 521
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0101
+  rotate: false
+  xy: 549, 625
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0119
+  rotate: false
+  xy: 549, 625
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0102
+  rotate: false
+  xy: 686, 729
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0118
+  rotate: false
+  xy: 686, 729
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0103
+  rotate: false
+  xy: 1, 105
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0117
+  rotate: false
+  xy: 1, 105
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0104
+  rotate: false
+  xy: 138, 209
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0116
+  rotate: false
+  xy: 138, 209
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0105
+  rotate: false
+  xy: 275, 313
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0115
+  rotate: false
+  xy: 275, 313
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0106
+  rotate: false
+  xy: 412, 417
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0114
+  rotate: false
+  xy: 412, 417
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0107
+  rotate: false
+  xy: 549, 521
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0113
+  rotate: false
+  xy: 549, 521
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0108
+  rotate: false
+  xy: 686, 625
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0112
+  rotate: false
+  xy: 686, 625
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0109
+  rotate: false
+  xy: 823, 729
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0111
+  rotate: false
+  xy: 823, 729
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+hunterman_legs0110
+  rotate: false
+  xy: 1, 1
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,145 @@
+
+hunterman_draw.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hunterman0001
+  rotate: false
+  xy: 1, 265
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0002
+  rotate: false
+  xy: 1, 133
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0003
+  rotate: false
+  xy: 153, 265
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0004
+  rotate: false
+  xy: 1, 1
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0005
+  rotate: false
+  xy: 153, 133
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0006
+  rotate: false
+  xy: 305, 265
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0007
+  rotate: false
+  xy: 153, 1
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0008
+  rotate: false
+  xy: 305, 133
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0009
+  rotate: false
+  xy: 457, 265
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0010
+  rotate: false
+  xy: 305, 1
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0011
+  rotate: false
+  xy: 457, 133
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0012
+  rotate: false
+  xy: 609, 265
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0013
+  rotate: false
+  xy: 457, 1
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0014
+  rotate: false
+  xy: 609, 133
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0015
+  rotate: false
+  xy: 761, 265
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0016
+  rotate: false
+  xy: 609, 1
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0017
+  rotate: false
+  xy: 761, 133
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0018
+  rotate: false
+  xy: 913, 265
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0019
+  rotate: false
+  xy: 761, 1
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+hunterman0020
+  rotate: false
+  xy: 913, 133
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1

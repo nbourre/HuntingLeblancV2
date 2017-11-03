@@ -1,0 +1,39 @@
+caribou_rot.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caribou_rot0001
+  rotate: false
+  xy: 2, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_rot0002
+  rotate: false
+  xy: 189, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_rot0003
+  rotate: false
+  xy: 376, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_rot0004
+  rotate: false
+  xy: 563, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_rot0005
+  rotate: false
+  xy: 750, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1

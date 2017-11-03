@@ -1,0 +1,284 @@
+hunterman_forward.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hunterman_legs0001
+  rotate: false
+  xy: 2, 2
+  size: 43, 43
+  orig: 135, 102
+  offset: 49, 27
+  index: -1
+hunterman_legs0002
+  rotate: false
+  xy: 47, 2
+  size: 53, 43
+  orig: 135, 102
+  offset: 43, 27
+  index: -1
+hunterman_legs0003
+  rotate: false
+  xy: 102, 2
+  size: 63, 43
+  orig: 135, 102
+  offset: 38, 27
+  index: -1
+hunterman_legs0004
+  rotate: false
+  xy: 167, 2
+  size: 72, 43
+  orig: 135, 102
+  offset: 33, 27
+  index: -1
+hunterman_legs0005
+  rotate: false
+  xy: 241, 2
+  size: 83, 43
+  orig: 135, 102
+  offset: 27, 27
+  index: -1
+hunterman_legs0006
+  rotate: false
+  xy: 326, 2
+  size: 92, 43
+  orig: 135, 102
+  offset: 22, 27
+  index: -1
+hunterman_legs0007
+  rotate: false
+  xy: 420, 2
+  size: 103, 43
+  orig: 135, 102
+  offset: 16, 27
+  index: -1
+hunterman_legs0008
+  rotate: false
+  xy: 525, 2
+  size: 112, 43
+  orig: 135, 102
+  offset: 11, 27
+  index: -1
+hunterman_legs0009
+  rotate: false
+  xy: 639, 2
+  size: 122, 43
+  orig: 135, 102
+  offset: 6, 27
+  index: -1
+hunterman_legs0010
+  rotate: false
+  xy: 763, 2
+  size: 132, 43
+  orig: 135, 102
+  offset: 0, 27
+  index: -1
+hunterman_legs0011
+  rotate: false
+  xy: 897, 2
+  size: 123, 43
+  orig: 135, 102
+  offset: 5, 27
+  index: -1
+hunterman_legs0012
+  rotate: false
+  xy: 1022, 2
+  size: 114, 43
+  orig: 135, 102
+  offset: 10, 27
+  index: -1
+hunterman_legs0013
+  rotate: false
+  xy: 1138, 2
+  size: 105, 43
+  orig: 135, 102
+  offset: 15, 27
+  index: -1
+hunterman_legs0014
+  rotate: false
+  xy: 1245, 2
+  size: 96, 43
+  orig: 135, 102
+  offset: 20, 27
+  index: -1
+hunterman_legs0015
+  rotate: false
+  xy: 1343, 2
+  size: 87, 43
+  orig: 135, 102
+  offset: 25, 27
+  index: -1
+hunterman_legs0016
+  rotate: false
+  xy: 1432, 2
+  size: 79, 43
+  orig: 135, 102
+  offset: 29, 27
+  index: -1
+hunterman_legs0017
+  rotate: false
+  xy: 1513, 2
+  size: 70, 43
+  orig: 135, 102
+  offset: 34, 27
+  index: -1
+hunterman_legs0018
+  rotate: false
+  xy: 1585, 2
+  size: 61, 43
+  orig: 135, 102
+  offset: 39, 27
+  index: -1
+hunterman_legs0019
+  rotate: false
+  xy: 2, 47
+  size: 52, 43
+  orig: 135, 102
+  offset: 44, 27
+  index: -1
+hunterman_legs0020
+  rotate: false
+  xy: 1648, 2
+  size: 43, 43
+  orig: 135, 102
+  offset: 49, 27
+  index: -1
+hunterman_legs0021
+  rotate: false
+  xy: 56, 47
+  size: 51, 43
+  orig: 135, 102
+  offset: 44, 27
+  index: -1
+hunterman_legs0022
+  rotate: false
+  xy: 109, 47
+  size: 58, 43
+  orig: 135, 102
+  offset: 40, 27
+  index: -1
+hunterman_legs0023
+  rotate: false
+  xy: 169, 47
+  size: 65, 43
+  orig: 135, 102
+  offset: 36, 27
+  index: -1
+hunterman_legs0024
+  rotate: false
+  xy: 236, 47
+  size: 73, 43
+  orig: 135, 102
+  offset: 31, 27
+  index: -1
+hunterman_legs0025
+  rotate: false
+  xy: 311, 47
+  size: 80, 43
+  orig: 135, 102
+  offset: 27, 27
+  index: -1
+hunterman_legs0026
+  rotate: false
+  xy: 393, 47
+  size: 87, 43
+  orig: 135, 102
+  offset: 23, 27
+  index: -1
+hunterman_legs0027
+  rotate: false
+  xy: 482, 47
+  size: 95, 43
+  orig: 135, 102
+  offset: 18, 27
+  index: -1
+hunterman_legs0028
+  rotate: false
+  xy: 579, 47
+  size: 102, 43
+  orig: 135, 102
+  offset: 14, 27
+  index: -1
+hunterman_legs0029
+  rotate: false
+  xy: 683, 47
+  size: 109, 43
+  orig: 135, 102
+  offset: 10, 27
+  index: -1
+hunterman_legs0030
+  rotate: false
+  xy: 794, 47
+  size: 117, 43
+  orig: 135, 102
+  offset: 5, 27
+  index: -1
+hunterman_legs0031
+  rotate: false
+  xy: 913, 47
+  size: 109, 43
+  orig: 135, 102
+  offset: 10, 27
+  index: -1
+hunterman_legs0032
+  rotate: false
+  xy: 1024, 47
+  size: 102, 43
+  orig: 135, 102
+  offset: 14, 27
+  index: -1
+hunterman_legs0033
+  rotate: false
+  xy: 1128, 47
+  size: 95, 43
+  orig: 135, 102
+  offset: 18, 27
+  index: -1
+hunterman_legs0034
+  rotate: false
+  xy: 1225, 47
+  size: 87, 43
+  orig: 135, 102
+  offset: 23, 27
+  index: -1
+hunterman_legs0035
+  rotate: false
+  xy: 1314, 47
+  size: 80, 43
+  orig: 135, 102
+  offset: 27, 27
+  index: -1
+hunterman_legs0036
+  rotate: false
+  xy: 1396, 47
+  size: 73, 43
+  orig: 135, 102
+  offset: 31, 27
+  index: -1
+hunterman_legs0037
+  rotate: false
+  xy: 1471, 47
+  size: 65, 43
+  orig: 135, 102
+  offset: 36, 27
+  index: -1
+hunterman_legs0038
+  rotate: false
+  xy: 1538, 47
+  size: 58, 43
+  orig: 135, 102
+  offset: 40, 27
+  index: -1
+hunterman_legs0039
+  rotate: false
+  xy: 1598, 47
+  size: 51, 43
+  orig: 135, 102
+  offset: 44, 27
+  index: -1
+hunterman_legs0040
+  rotate: false
+  xy: 1651, 47
+  size: 43, 43
+  orig: 135, 102
+  offset: 49, 27
+  index: -1

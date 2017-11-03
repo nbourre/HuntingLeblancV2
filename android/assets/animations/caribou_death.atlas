@@ -1,0 +1,319 @@
+caribou_death.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caribou_death0001
+  rotate: false
+  xy: 2, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0002
+  rotate: false
+  xy: 189, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0003
+  rotate: false
+  xy: 376, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0004
+  rotate: false
+  xy: 563, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0005
+  rotate: false
+  xy: 750, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0006
+  rotate: false
+  xy: 937, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0007
+  rotate: false
+  xy: 1124, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0008
+  rotate: false
+  xy: 1311, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0009
+  rotate: false
+  xy: 1498, 2
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0010
+  rotate: false
+  xy: 2, 170
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0011
+  rotate: false
+  xy: 189, 170
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0012
+  rotate: false
+  xy: 376, 170
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0013
+  rotate: false
+  xy: 563, 170
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0014
+  rotate: false
+  xy: 750, 170
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0015
+  rotate: false
+  xy: 937, 170
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0016
+  rotate: false
+  xy: 1124, 170
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0017
+  rotate: false
+  xy: 1311, 170
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0018
+  rotate: false
+  xy: 1498, 170
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0019
+  rotate: false
+  xy: 2, 338
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0020
+  rotate: false
+  xy: 189, 338
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0021
+  rotate: false
+  xy: 376, 338
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0022
+  rotate: false
+  xy: 563, 338
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0023
+  rotate: false
+  xy: 750, 338
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0024
+  rotate: false
+  xy: 937, 338
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0025
+  rotate: false
+  xy: 1124, 338
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0026
+  rotate: false
+  xy: 1311, 338
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0027
+  rotate: false
+  xy: 1498, 338
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0028
+  rotate: false
+  xy: 2, 506
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0029
+  rotate: false
+  xy: 189, 506
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0030
+  rotate: false
+  xy: 376, 506
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0031
+  rotate: false
+  xy: 563, 506
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0032
+  rotate: false
+  xy: 750, 506
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0033
+  rotate: false
+  xy: 937, 506
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0034
+  rotate: false
+  xy: 1124, 506
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0035
+  rotate: false
+  xy: 1311, 506
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0036
+  rotate: false
+  xy: 1498, 506
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0037
+  rotate: false
+  xy: 2, 674
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0038
+  rotate: false
+  xy: 189, 674
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0039
+  rotate: false
+  xy: 376, 674
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0040
+  rotate: false
+  xy: 563, 674
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0041
+  rotate: false
+  xy: 750, 674
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0042
+  rotate: false
+  xy: 937, 674
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0043
+  rotate: false
+  xy: 1124, 674
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0044
+  rotate: false
+  xy: 1311, 674
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+caribou_death0045
+  rotate: false
+  xy: 1498, 674
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
